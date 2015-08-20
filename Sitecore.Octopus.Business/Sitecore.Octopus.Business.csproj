@@ -67,16 +67,16 @@
       <HintPath>..\packages\RestSharp.104.4.0\lib\net4\RestSharp.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\..\..\Projects\Trafalgar\lib\Sitecore 7.2 rev. 140526\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\SitecoreLibs\Sitecore.Kernel.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Logging">
-      <HintPath>..\..\..\Projects\Trafalgar\lib\Sitecore 7.2 rev. 140526\Sitecore.Logging.dll</HintPath>
+      <HintPath>..\SitecoreLibs\Sitecore.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Update">
-      <HintPath>..\..\..\Projects\Trafalgar\lib\Sitecore 7.2 rev. 140526\Sitecore.Update.dll</HintPath>
+      <HintPath>..\SitecoreLibs\Sitecore.Update.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Zip">
-      <HintPath>..\..\..\Projects\Trafalgar\lib\Sitecore 7.2 rev. 140526\Sitecore.Zip.dll</HintPath>
+      <HintPath>..\SitecoreLibs\Sitecore.Zip.dll</HintPath>
     </Reference>
     <Reference Include="Sprache">
       <HintPath>..\packages\Sprache.1.10.0.36\lib\net40\Sprache.dll</HintPath>
